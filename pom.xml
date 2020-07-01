@@ -33,7 +33,7 @@
 		<testng.version>6.9.10</testng.version>
 		<commons.io.version>2.4</commons.io.version>
 		<asm.version>5.2</asm.version>
-		<log4j2.version>2.6.2</log4j2.version>
+		<log4j2.version>2.13.3</log4j2.version>
 		<conqat.commons.version>1.0</conqat.commons.version>
 	</properties>
 	
